@@ -5,6 +5,7 @@ export default function HomePage() {
   return (
     <div >
       <DynamicP5Background />
+      <SkillConstellation />
     </div>
   );
 }
